@@ -112,6 +112,7 @@ section {
 .about img {
   width: 26vw;
   border-radius: 50%;
+  border: 1px solid black;
 }
 
 .info-box {
@@ -194,6 +195,7 @@ section {
 .experience img {
   width: 24vw;
   border-radius: 3rem;
+  border: 1px solid black;
 }
 
 .grid {
